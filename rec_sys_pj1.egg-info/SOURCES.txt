@@ -1,0 +1,6 @@
+README.md
+setup.py
+rec_sys_pj1.egg-info/PKG-INFO
+rec_sys_pj1.egg-info/SOURCES.txt
+rec_sys_pj1.egg-info/dependency_links.txt
+rec_sys_pj1.egg-info/top_level.txt
